@@ -56,6 +56,7 @@ st.markdown("""
         border-radius: 8px;
         border-left: 5px solid #2196f3;
         margin-top: 20px;
+        color: black;
     }
     </style>
     """, unsafe_allow_html=True)
