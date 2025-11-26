@@ -124,7 +124,7 @@ if predict_btn:
         <div class="metric-container">
             <div class="prediction-title">⚠️ Primary Risk</div>
             <div class="prediction-value">{prediction}</div>
-            <p style="margin-top:10px; color:#666;">Confidence: <strong>{max_prob:.1f}%</strong></p>
+            <p style="margin-top:10px; color:black;">Confidence: <strong>{max_prob:.1f}%</strong></p>
         </div>
         """, unsafe_allow_html=True)
 
