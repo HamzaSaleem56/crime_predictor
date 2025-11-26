@@ -40,7 +40,7 @@ st.markdown("""
         border-left: 5px solid #ff4b4b;
     }
     .prediction-title {
-        color: #333;
+        color: black;
         font-size: 1.2rem;
         margin-bottom: 5px;
     }
